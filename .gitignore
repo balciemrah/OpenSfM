@@ -6,6 +6,7 @@ xcode
 launch.json
 .vscode
 .idea
+/.venv
 
 # Ignore generated files
 /build
